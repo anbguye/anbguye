@@ -1,3 +1,1 @@
-# hello-world
-This repository is for practising the GitHub Flow.
-Hello, my name is Anthony Nguyen and I am very excited to be learning about github and how to use it!
+[![GitHub Streak](https://streak-stats.demolab.com?user=anbguye&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
