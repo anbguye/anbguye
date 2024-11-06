@@ -1,6 +1,6 @@
 # Hello, I'm Anthony!
 
-I am currently a resident at Headstarter, where I'm building innovative projects across AI/ML and full-stack development. 
+I am currently a Software Engineering Resident @ Headstarter, where I'm building innovative projects across AI/ML and full-stack development. 
 
 My passion lies in transforming creative ideas into real-world applications, leveraging skills in React, Python, and machine learning. 
 
