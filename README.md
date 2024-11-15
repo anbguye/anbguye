@@ -2,9 +2,9 @@
 
 I am currently a Software Engineering Resident @ Headstarter, where I'm building innovative projects across AI/ML and full-stack development. 
 
-My passion lies in transforming creative ideas into real-world applications, leveraging skills in React, Python, and machine learning. 
+My passion lies in transforming creative ideas into real-world applications, utilizing my skills in React, Python, and machine learning. 
 
-As a first-generation college student, I draw inspiration from my parents’ sacrifices, driving my commitment to personal growth and excellence. 
+As a first-generation college student, my commitment to personal growth and professional success is only possible through the sacrifices my parents have made.
 
 When I'm not coding, you can find me immersed in lofi beats or swimming.
 #
