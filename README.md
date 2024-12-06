@@ -1,12 +1,13 @@
 # Hello, I'm Anthony!
 
-I am currently a Software Engineering Resident @ Headstarter, where I'm building innovative projects across AI/ML and full-stack development. 
+I’m a Software Engineering Resident @ Headstarter, where I’m building innovative projects in AI/ML and full-stack development.
 
 My passion lies in transforming creative ideas into real-world applications, utilizing my skills in React, Python, and machine learning. 
 
-As a first-generation college student, my commitment to personal growth and professional success is only possible through the sacrifices my parents have made.
+This summer, I’m excited to join Alpine, an ITW Company, as a Software Development Intern, where I’ll continue honing my skills and contributing to impactful projects.
 
-When I'm not coding, you can find me immersed in lofi beats or swimming.
+When I’m not coding, I’m either immersed in lofi beats or enjoying my time swimming.
+
 #
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anbguye&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
