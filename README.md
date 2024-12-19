@@ -4,8 +4,6 @@ I’m a Software Engineering Resident @ Headstarter, where I’m building innova
 
 My passion lies in transforming creative ideas into real-world applications, utilizing my skills in React, Python, and machine learning. 
 
-This summer, I’m excited to join Alpine, an ITW Company, as a Software Development Intern, where I’ll continue honing my skills and contributing to impactful projects.
-
 When I’m not coding, I’m either immersed in lofi beats or enjoying my time swimming.
 
 #
