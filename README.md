@@ -1,10 +1,8 @@
 # Hello, I'm Anthony!
 
-I’m a Software Engineering Resident @ Headstarter, where I’m building innovative projects in AI/ML and full-stack development.
+I'm an Incoming Software Developer Intern @ Alpine with experience in AI/ML and full-stack development. I work with Python, React, and Machine Learning to build scalable applications and solve real-world problems.
 
-My passion lies in transforming creative ideas into real-world applications, utilizing my skills in React, Python, and machine learning. 
-
-When I’m not coding, I’m either immersed in lofi beats or enjoying my time swimming.
+When I’m not coding, I enjoy swimming and listening to lofi music.
 
 #
 <p align="center">
