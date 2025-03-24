@@ -1,6 +1,8 @@
 # Hello, I'm Anthony!
 
-I'm an Incoming Software Developer Intern @ Alpine with experience in AI/ML and full-stack development. I work with Python, React, and Machine Learning to build scalable applications and solve real-world problems.
+I'm an Incoming Software Developer Intern @ Alpine with experience in AI/ML and full-stack development. 
+
+I work with Python, React, and Machine Learning to build scalable applications and solve real-world problems.
 
 When I’m not coding, I enjoy swimming and listening to lofi music.
 
