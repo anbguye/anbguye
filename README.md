@@ -1,8 +1,9 @@
 # Hello, I'm Anthony!
 
-I’m an Incoming Software Developer Intern @ Alpine, passionate about AI/ML and full-stack development. I love transforming creative ideas into real-world applications, utilizing my skills in Python, React, and Machine Learning to build impactful projects.
+Software Engineering student @ UT Dallas  
+Incoming SDE Intern @ Amazon  
 
-When I’m not coding, you’ll probably find me listening to lofi beats or swimming.
+Currently interested in full-stack development, AI, and machine learning.
 
 #
 <p align="center">
