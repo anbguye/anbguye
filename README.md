@@ -1,6 +1,6 @@
 # Hello, I'm Anthony!
 
-Software Engineering student @ UT Dallas  
+Software Engineering @ UT Dallas  
 Incoming SDE Intern @ Amazon  
 
 Currently interested in full-stack development, AI, and machine learning.
