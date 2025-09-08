@@ -1,7 +1,7 @@
 # Hello, I'm Anthony!
 
 Software Engineering @ UT Dallas  
-Prev. @ Amazon
+Prev. @ Amazon 
 
 Currently interested in full-stack development, AI, and machine learning.
 
