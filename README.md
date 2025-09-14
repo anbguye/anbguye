@@ -1,6 +1,6 @@
 # Hello, I'm Anthony!
 
-Prev. @ Amazon
+Prev. @ Amazon 
 
 Currently a Software Engineering student at UT Dallas and my interests are in AI/ML, full-stack development.
 
