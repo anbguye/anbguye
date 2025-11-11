@@ -3,6 +3,7 @@ Hello, I'm Anthony!
 
 2× First Place Hackathon Winner @ HackUTD 2025 (largest 24-hour hackathon in North America)
 Prev. SDE Intern @ Amazon
+
 Currently reading: A Tour of C++, Second Edition, Bjarne Stroustrup
 
 Software Engineering student at UT Dallas a big interest in full-stack, cloud, and AI/ML technologies. 
