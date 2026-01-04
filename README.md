@@ -3,7 +3,7 @@ Hello, I'm Anthony!
 
 Incoming Software Developer Intern @ IBM
 Prev. SDE Intern @ Amazon
-2× First Place Hackathon Winner — HackUTD 2025 (largest 24-hour hackathon in North America)
+2× First Place Hackathon Winner @ HackUTD 2025 (largest 24-hour hackathon in North America)
 
 Currently reading: Neural Networks and Deep Learning, Michael Nielsen
 A Tour of C++, Second Edition, Bjarne Stroustrup
