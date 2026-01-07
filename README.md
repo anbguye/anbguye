@@ -1,7 +1,6 @@
 ```
 Hello, I'm Anthony!
 
-Incoming Software Developer Intern @ IBM
 Prev. SDE Intern @ Amazon
 2× First Place Hackathon Winner @ HackUTD 2025 (largest 24-hour hackathon in North America)
 
