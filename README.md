@@ -1,8 +1,9 @@
 ```
 Hello, I'm Anthony!
 
+Currently @ IBM
 Prev. SDE Intern @ Amazon
-2× First Place Hackathon Winner @ HackUTD 2025 (largest 24-hour hackathon in North America)
+2x First Place Hackathon Winner @ HackUTD 2025 (largest 24-hour hackathon in North America)
 
 Currently reading:
 Neural Networks and Deep Learning, Michael Nielsen
